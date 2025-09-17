@@ -3,7 +3,7 @@
 Web statis berisi 4 halaman inti:
 
 - `/` — Homepage (Hero, "Bagaimana Ini Bekerja?", footer dengan Kebijakan Privasi & Disclaimer)
-- `/curhat` — Halaman Curhat (UI chat sederhana, tanpa backend)
+- `/curhat` — Halaman Curhat (Terintegrasi dengan AI)
 - `/kuesioner` — Kuesioner Stres (5–7 pertanyaan dengan radio button + tombol "Lihat Hasil")
 - `/bantuan` — Daftar kontak profesional (kartu dengan foto placeholder, nama, spesialisasi, tombol "Hubungi")
 
