@@ -33,8 +33,8 @@ export default function Result({ score }: ResultProps) {
       </div>
       <p className="text-gray-700">{advice}</p>
       <div className="flex justify-center gap-4">
-        <a href="/curhat" className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">
-          Mulai Curhat
+        <a href="/" className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">
+          Kembali ke halaman awal
         </a>
         <a href="/bantuan" className="px-4 py-2 bg-green-500 text-white rounded-lg hover:bg-green-600">
           Bantuan Profesional
