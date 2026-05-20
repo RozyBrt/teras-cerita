@@ -81,9 +81,9 @@ export default function CurhatPage() {
           {messages.map((m, index) => (
             <div
               key={index}
-              className="flex ${
-              m.from === 'user' ? 'justify-end' : 'justify-start' //  Pesan user di kanan, bot di kiri
-            }"
+              className={`flex ${
+                m.from === 'user' ? 'justify-end' : 'justify-start'
+              }`}
             >
               <div
                 className={`max-w-[70%] rounded-xl px-4 py-3 shadow-sm ${
