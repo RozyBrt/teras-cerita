@@ -23,7 +23,7 @@ Berikut adalah beberapa tampilan utama dari aplikasi **Teras Cerita**:
 | :---: | :---: |
 | ![Kuesioner](./public/screenshots/kuesioner.png) | ![Bantuan](./public/screenshots/bantuan.png) |
 
-> 💡 *Catatan: Anda dapat menaruh file screenshot Anda di folder `/public/screenshots/` dengan nama file yang sesuai di atas.*
+> 💡 *Catatan: File screenshot Ada di folder `/public/screenshots/` dan sesuaikan nama file nya.*
 
 ---
 
